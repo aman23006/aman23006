@@ -1,6 +1,5 @@
 Aman shah
 Frontend web developer
-Road to become fullstack developer
 amanshahas419@gmail.com
 
 <!---
